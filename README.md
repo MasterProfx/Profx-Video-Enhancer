@@ -1,3 +1,6 @@
+> **راهنمای فارسی Profx:** [README_FA.md](README_FA.md) — معرفی، نصب، نکات ایمنی GPU و وضعیت این Fork به زبان فارسی.  
+> **English upstream documentation:** [README_EN.md](README_EN.md)
+
 <div align="center">
 
 <img src="assets/veyra-app-icon.png" alt="Veyra" width="140">
